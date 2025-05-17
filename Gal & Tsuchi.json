@@ -10,7 +10,9 @@
       "volume": "",
       "last_updated": "1747444917",
       "groups": {
-        "": "https://imgchest.com/p/wl7lgjnaqyx"
+        "": [
+          "https://imgchest.com/p/wl7lgjnaqyx"
+        ]
       }
     },
     "2": {
@@ -18,7 +20,9 @@
       "volume": "",
       "last_updated": "1747444929",
       "groups": {
-        "": "https://imgchest.com/p/a846wbeozyx"
+        "": [
+          "https://imgchest.com/p/a846wbeozyx"
+        ]
       }
     }
   }
