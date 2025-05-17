@@ -6,29 +6,27 @@
   "cover": "",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Love and Tsuchinoko and Peace",
       "volume": "",
       "last_updated": "1747447488",
       "groups": {
-        "": [
-          "https://cdn.imgchest.com/files/yrgcnv2xzg4.png",
-          "https://cdn.imgchest.com/files/739cx8vz6m7.png",
-          "https://cdn.imgchest.com/files/7w6c2pd9vry.png",
-          "https://cdn.imgchest.com/files/ye3c2lmvdd4.png",
-          "https://cdn.imgchest.com/files/4z9cvm5qw97.png",
-          "https://cdn.imgchest.com/files/4gdcx8q3po4.png",
-          "https://cdn.imgchest.com/files/y8xcn9oak54.png",
-          "",
-          ""
-        ]
+        "": "/proxy/api/imgur/chapter/wdTmybK"
       }
     },
     "2": {
-      "title": "15",
+      "title": "Tsuchinoko On The Futon",
       "volume": "",
       "last_updated": "1747447621",
       "groups": {
-        "": "/proxy/api/imgur/chapter/vEJBtdo"
+        "": "/proxy/api/imgur/chapter/MlpUz05"
+      }
+    },
+    "3": {
+      "title": "This gal's done being a tsuchinoko",
+      "volume": "",
+      "last_updated": "1747449783",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nwdpzb4n"
       }
     }
   }
