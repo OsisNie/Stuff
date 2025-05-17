@@ -10,7 +10,7 @@
       "volume": "",
       "last_updated": "1747447488",
       "groups": {
-        "": "/proxy/api/imgur/chapter/wdTmybK"
+        "": "/proxy/api/imgchest/chapter/wl7lgjnaqyx"
       }
     },
     "2": {
@@ -18,7 +18,7 @@
       "volume": "",
       "last_updated": "1747447621",
       "groups": {
-        "": "/proxy/api/imgur/chapter/MlpUz05"
+        "": "/proxy/api/imgchest/chapter/a846wbeozyx"
       }
     },
     "3": {
@@ -27,6 +27,22 @@
       "last_updated": "1747449783",
       "groups": {
         "": "/proxy/api/imgchest/chapter/9p4nwdpzb4n"
+      }
+    },
+    "4": {
+      "title": "Tsuchinoko's Ex-Boyfriend",
+      "volume": "",
+      "last_updated": "1747449984",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7owr2b24p"
+      }
+    },
+    "5": {
+      "title": "Walking with Tsuchinoko leads to a metamorphosis",
+      "volume": "",
+      "last_updated": "1747450039",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7kml9k348"
       }
     }
   }
