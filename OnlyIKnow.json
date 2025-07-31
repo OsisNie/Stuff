@@ -47,7 +47,7 @@
     },
     "6": {
       "title": "Online Friend",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1753397578",
       "groups": {
         "": "/proxy/api/imgchest/chapter/md7oqmklr4p"
@@ -55,7 +55,7 @@
     },
     "7": {
       "title": "Trying",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1753787731",
       "groups": {
         "": "/proxy/api/imgchest/chapter/9249povza7n"
@@ -63,7 +63,7 @@
     },
     "8": {
       "title": "Another Secret",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1753922679",
       "groups": {
         "": "/proxy/api/imgchest/chapter/9ryd6vw5l7k"
@@ -75,6 +75,14 @@
       "last_updated": "1752956488",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ne7bkbomk75"
+      }
+    },
+    "8.5": {
+      "title": "Volume Extra",
+      "volume": "2",
+      "last_updated": "1753937221",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pdx3rj7o"
       }
     }
   }
