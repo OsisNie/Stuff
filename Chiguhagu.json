@@ -7,7 +7,7 @@
   "chapters": {
     "3": {
       "title": "You're being tricked!",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1754388051",
       "groups": {
         "": "/proxy/api/imgchest/chapter/wl7lox6z37x"
@@ -15,7 +15,7 @@
     },
     "4": {
       "title": "Exchanging Contact Info!",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1754526551",
       "groups": {
         "": "/proxy/api/imgchest/chapter/md7o8ll824p"
@@ -23,10 +23,18 @@
     },
     "5": {
       "title": "There's no way she's reading!",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1755040910",
       "groups": {
         "": "/proxy/api/imgchest/chapter/pg73lwrlj7r"
+      }
+    },
+    "6": {
+      "title": "Boys' Offense and Defense",
+      "volume": "1",
+      "last_updated": "1755195269",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrl8pxxyp"
       }
     }
   }
