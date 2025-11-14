@@ -54,11 +54,19 @@
       }
     },
     "19": {
-      "title": "The Adorned and the Outcast",
+      "title": "The Girl: Dressed up, and the Outcast",
       "volume": "3",
       "last_updated": "1763024062",
       "groups": {
         "": "/proxy/api/imgchest/chapter/agyvx88oz78"
+      }
+    },
+    "20": {
+      "title": "The Girl: Completely Naked",
+      "volume": "3",
+      "last_updated": "1763089903",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gmbl5o4j"
       }
     }
   }
