@@ -7,7 +7,7 @@
   "chapters": {
     "10": {
       "title": "Chapter 10",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1764062986",
       "groups": {
         "": "/proxy/api/imgchest/chapter/bp45ok8jn75"
@@ -15,7 +15,7 @@
     },
     "11": {
       "title": "Chapter 11",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1764316202",
       "groups": {
         "": "/proxy/api/imgchest/chapter/5xy2op2rz4l"
@@ -23,7 +23,7 @@
     },
     "12": {
       "title": "Chapter 12",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1764917966",
       "groups": {
         "": "/proxy/api/imgchest/chapter/dl7pn9mw8yo"
@@ -31,10 +31,18 @@
     },
     "13": {
       "title": "Chapter 13",
-      "volume": "",
+      "volume": "2",
       "last_updated": "1764918005",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qb4zpjvlgyj"
+      }
+    },
+    "14": {
+      "title": "Chapter 14",
+      "volume": "2",
+      "last_updated": "1765168150",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7lw9mgq4x"
       }
     }
   }
