@@ -135,7 +135,7 @@
     },
     "19": {
       "title": "I want to watch her work!",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1765431052",
       "groups": {
         "": "/proxy/api/imgchest/chapter/n87wndnbx7x"
@@ -147,6 +147,14 @@
       "last_updated": "1758492040",
       "groups": {
         "": "/proxy/api/imgchest/chapter/vj4j8a6a278"
+      }
+    },
+    "19.5": {
+      "title": "If you're going to work, then so will I",
+      "volume": "2",
+      "last_updated": "1765441877",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrn955g7p"
       }
     }
   }
