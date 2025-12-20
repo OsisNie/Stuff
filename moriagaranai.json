@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Prone to misfortune",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1765919391",
       "groups": {
         "": "/proxy/api/imgchest/chapter/bp45oq9wn75"
@@ -15,7 +15,7 @@
     },
     "2": {
       "title": "Sitting atop the weight stone",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1766024755",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ljyqkardoy2"
@@ -23,10 +23,18 @@
     },
     "3": {
       "title": "Important plans",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1766111241",
       "groups": {
         "": "/proxy/api/imgchest/chapter/na7kkabdm78"
+      }
+    },
+    "4": {
+      "title": "The reason she closed her eyes",
+      "volume": "1",
+      "last_updated": "1766212984",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pnnevpyo"
       }
     }
   }
