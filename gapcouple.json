@@ -14,11 +14,19 @@
       }
     },
     "3": {
-      "title": "3",
+      "title": "Chapter 3",
       "volume": "",
       "last_updated": "1770636890",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qb4zmlxwvyj"
+      }
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "",
+      "last_updated": "1770702373",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyr5z9vx7p"
       }
     },
     "2.1": {
