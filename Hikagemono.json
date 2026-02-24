@@ -135,7 +135,7 @@
     },
     "29": {
       "title": "Overflowing love",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1763599273",
       "groups": {
         "": "/proxy/api/imgchest/chapter/wl7laqdp6yx"
@@ -143,7 +143,7 @@
     },
     "30": {
       "title": "To be with someone",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1763625407",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qe4gmnbkk4j"
@@ -151,7 +151,7 @@
     },
     "31": {
       "title": "Thus did the two make up",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1763688333",
       "groups": {
         "": "/proxy/api/imgchest/chapter/vj4jexvv578"
@@ -159,7 +159,7 @@
     },
     "32": {
       "title": "Izumi's suffering",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1763706192",
       "groups": {
         "": "/proxy/api/imgchest/chapter/5xy2qrb6zyl"
@@ -167,7 +167,7 @@
     },
     "33": {
       "title": "The cast's all here for the culture festival",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1763856136",
       "groups": {
         "": "/proxy/api/imgchest/chapter/9p4nvpp2zyn"
@@ -175,7 +175,7 @@
     },
     "34": {
       "title": "Second chance",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1763894371",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ne7bl8w6jy5"
@@ -183,7 +183,7 @@
     },
     "35": {
       "title": "A dull ache and moving forward",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1763947784",
       "groups": {
         "": "/proxy/api/imgchest/chapter/dl7pax8ek7o"
@@ -191,7 +191,7 @@
     },
     "36": {
       "title": "Misstep",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1763963722",
       "groups": {
         "": "/proxy/api/imgchest/chapter/wl7laelp6yx"
@@ -199,7 +199,7 @@
     },
     "37": {
       "title": "Downfall of the exposed queen",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1763976304",
       "groups": {
         "": "/proxy/api/imgchest/chapter/wl7lae8rxyx"
@@ -207,7 +207,7 @@
     },
     "38": {
       "title": "Where the sun doesn't shine",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1764034469",
       "groups": {
         "": "/proxy/api/imgchest/chapter/92492ood2yn"
@@ -215,7 +215,7 @@
     },
     "39": {
       "title": "Kawaoka Hozue's Turning Point",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1764150462",
       "groups": {
         "": "/proxy/api/imgchest/chapter/qe4gqv82k7j"
@@ -331,6 +331,14 @@
       "last_updated": "1771156348",
       "groups": {
         "": "/proxy/api/imgchest/chapter/9p4nkd85z4n"
+      }
+    },
+    "54": {
+      "title": "Things like \"disgusting\" and \"dumb-dumb\"",
+      "volume": "",
+      "last_updated": "1771964650",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4j6on55y8"
       }
     }
   }
