@@ -245,6 +245,14 @@
         "": "/proxy/api/imgchest/chapter/lqyen8qemyd"
       }
     },
+    "31": {
+      "title": "Peas",
+      "volume": "",
+      "last_updated": "1774495626",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4j6x5o2y8"
+      }
+    },
     "6.5": {
       "title": "Volume 1 Bonuses",
       "volume": "1",
@@ -267,6 +275,14 @@
       "last_updated": "1768388741",
       "groups": {
         "": "/proxy/api/imgchest/chapter/na7kk3b9k78"
+      }
+    },
+    "30.5": {
+      "title": "Sick visit",
+      "volume": "",
+      "last_updated": "1774495606",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2grxzj7l"
       }
     }
   }
