@@ -103,7 +103,7 @@
     },
     "13": {
       "title": "Chill day",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1765058253",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ljyqk85wdy2"
@@ -111,7 +111,7 @@
     },
     "14": {
       "title": "Driving force",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1767953831",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ej7medmq9yd"
@@ -119,7 +119,7 @@
     },
     "15": {
       "title": "Before leaving",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1770558427",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ej7mvjwxq7d"
@@ -127,7 +127,7 @@
     },
     "16": {
       "title": "Wishes",
-      "volume": "",
+      "volume": "4",
       "last_updated": "1773223594",
       "groups": {
         "": "/proxy/api/imgchest/chapter/ljyq6kdpe42"
@@ -135,7 +135,7 @@
     },
     "17": {
       "title": "Touchable",
-      "volume": "",
+      "volume": "5",
       "last_updated": "1775884748",
       "groups": {
         "": "/proxy/api/imgchest/chapter/a846qo6e2yx"
@@ -143,10 +143,18 @@
     },
     "18": {
       "title": "Oura-san is amazing",
-      "volume": "",
+      "volume": "5",
       "last_updated": "1778168956",
       "groups": {
         "": "/proxy/api/imgchest/chapter/agyvaxakby8"
+      }
+    },
+    "19": {
+      "title": "A night to unwind",
+      "volume": "5",
+      "last_updated": "1783562851",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9ryd9rbod7k"
       }
     },
     "4.5": {
