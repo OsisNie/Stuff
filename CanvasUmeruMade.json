@@ -12,6 +12,22 @@
       "groups": {
         "": "/proxy/api/imgchest/chapter/agyvk5waz48"
       }
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "",
+      "last_updated": "1790413923",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyv5zdoj48"
+      }
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "",
+      "last_updated": "1790413949",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nrgebm7n"
+      }
     }
   }
 }
