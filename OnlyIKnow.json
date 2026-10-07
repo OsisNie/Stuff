@@ -167,7 +167,7 @@
     },
     "21": {
       "title": "Taking on a life of its own",
-      "volume": "",
+      "volume": "6",
       "last_updated": "1788774161",
       "groups": {
         "": "/proxy/api/imgchest/chapter/o24abwz5d7l"
@@ -187,6 +187,14 @@
       "last_updated": "1753937221",
       "groups": {
         "": "/proxy/api/imgchest/chapter/dl7pdx3rj7o"
+      }
+    },
+    "20.5": {
+      "title": "Volume Extra",
+      "volume": "5",
+      "last_updated": "1791354636",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7om3gp9yp"
       }
     }
   }
